@@ -11,3 +11,4 @@
 
 # Open the application
 ```http://localhost/chat/home```
+
